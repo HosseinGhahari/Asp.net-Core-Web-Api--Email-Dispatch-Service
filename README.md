@@ -2,7 +2,7 @@
   
 <h1>Asp.net Core Web Api - Email Dispatch Service</h1>
 
-<p style="font-size:16px;">✅ I’ve developed a Web API for the backend service of my personal website. <br> This API, built with ASP.NET Core, handles email transmissions.It works by processing messages <br> that clients submit through a form on the website. <br> Once the form is filled out and submitted, the API takes care of sending the email.</p>
+<p style="font-size:16px;">✅ I’ve developed a Web API for the backend service of my personal website.This API <br> built with ASP.NET Core, handles email transmissions.It works by processing<br>messages that clients submit through a form on the website. <br> Once the form is filled out and submitted, the API takes care of sending the email.</p>
 
 <p style="font-size:16px;">✅  In the process of programming the API, I adhered to clean code requirements <br> and SOLID principles. Key principles such as dependency injection <br> have been fully implemented and are functioning as expected.</p>
 
