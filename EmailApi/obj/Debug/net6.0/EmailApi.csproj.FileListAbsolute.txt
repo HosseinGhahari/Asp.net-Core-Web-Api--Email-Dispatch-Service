@@ -1,0 +1,80 @@
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.exe
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.deps.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.runtimeconfig.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.pdb
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\MailKit.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.AssemblyReference.cache
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.AssemblyInfoInputs.cache
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.AssemblyInfo.cs
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.CoreCompileInputs.cache
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.EmailApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.build.EmailApi.props
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmailApi.props
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmailApi.props
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\scopedcss\bundle\EmailApi.styles.css
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.CopyComplete
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\refint\EmailApi.dll
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.pdb
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.genruntimeconfig.cache
+C:\Users\Hossein Ghahari\Desktop\EmailApi\EmailApi\obj\Debug\net6.0\ref\EmailApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\appsettings.Development.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\appsettings.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.exe
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.deps.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.runtimeconfig.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\EmailApi.pdb
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\MailKit.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\MimeKit.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.AssemblyReference.cache
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.AssemblyInfoInputs.cache
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.AssemblyInfo.cs
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.CoreCompileInputs.cache
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.MvcApplicationPartsAssemblyInfo.cs
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.MvcApplicationPartsAssemblyInfo.cache
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.EmailApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.build.EmailApi.props
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmailApi.props
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmailApi.props
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\scopedcss\bundle\EmailApi.styles.css
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\refint\EmailApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.pdb
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.genruntimeconfig.cache
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\ref\EmailApi.dll
+C:\My Work\2- Programming\My Website\3-Web Api\EmailApi\EmailApi\obj\Debug\net6.0\EmailApi.csproj.CopyComplete
