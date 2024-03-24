@@ -9,9 +9,9 @@
 <h2>‼️Important Notice :</h2>
 <p style="font-size:16px;">🔹To use and customize this API, please follow these steps :</p>
 <br>
-<p style="font-size:16px;">🔸The API operates by using two personal emails <br> one for sending and another for receiving.</p>
-<p style="font-size:16px;">🔸Navigate to AppSettings.Json in the project and ensure that you’ve <br> filled out the necessary details for both the sender and receiver email accounts. <br> Use your own two emails for this purpose.</p>
-<p style="font-size:16px;">🔸The email account used for sending should have ‘AppPassword’ enabled. <br> This can be easily done in the security settings of your Google account <br> if you’re using Gmail. Use this ‘AppPassword’ as the password for the sender email.</p>
+<p style="font-size:16px;">1. The API operates by using two personal emails <br> one for sending and another for receiving.</p>
+<p style="font-size:16px;">2. Navigate to AppSettings.Json in the project and ensure that you’ve <br> filled out the necessary details for both the sender and receiver email accounts. <br> Use your own two emails for this purpose.</p>
+<p style="font-size:16px;">3. The email account used for sending should have ‘AppPassword’ enabled. <br> This can be easily done in the security settings of your Google account <br> if you’re using Gmail. Use this ‘AppPassword’ as the password for the sender email.</p>
 <br>
 <h2>Feedback</h2>
 
